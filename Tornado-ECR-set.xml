@@ -50,7 +50,10 @@
 			<file>Aircraft/Tornado/Nasal/hud/hud_ecr.nas</file>
 		</hud>
 		<efis>
-			<file>Aircraft/Tornado/Nasal/moving-map.nas</file>
+			<file>Aircraft/Tornado/Nasal/map/moving-map.nas</file>
+			<file>Aircraft/Tornado/Nasal/map/cedam.nas</file>
+			<file>Aircraft/Tornado/Nasal/map/crpmd.nas</file>
+			<file>Aircraft/Tornado/Nasal/map/ECR.nas</file>
 			<file>Aircraft/Tornado/Nasal/tvtab/maps/loader.nas</file>
 			<file>Aircraft/Tornado/Nasal/tvtab/Framework.nas</file>
 			<file>Aircraft/Tornado/Nasal/tvtab/plan.nas</file>
@@ -59,7 +62,7 @@
 			<file>Aircraft/Tornado/Nasal/tvtab/eqm.nas</file>
 			<file>Aircraft/Tornado/Nasal/tvtab/empty.nas</file>
 			<file>Aircraft/Tornado/Nasal/tvtab/overlay.nas</file>
-			<file>Aircraft/Tornado/Nasal/tvtab/TVTAB_IDS.nas</file>
+			<file>Aircraft/Tornado/Nasal/tvtab/TVTAB_ECR.nas</file>
 		</efis>
 	</nasal>
 </PropertyList>
